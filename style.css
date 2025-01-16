@@ -89,8 +89,9 @@ nav{
         padding: 0px 10px;
     }
     .banner-img{
-        padding: 0px 10px;
-        width: 100%;
+        padding: 0px;
+        width:95%;
+        margin:20px auto;
     }
 }
 /* main */
